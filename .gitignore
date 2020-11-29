@@ -1,0 +1,10 @@
+*~
+.DS_Store
+*.framework
+*.aar
+*.jar
+
+# mobiles
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+mobile/android/app/release/
